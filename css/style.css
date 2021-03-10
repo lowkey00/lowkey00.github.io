@@ -15,7 +15,7 @@ section {max-width: 75rem;}
 }
 
 section.about-section {
-    background-image: url('../img/coding.jpg');
+    background-image: url('../img/accountant.jpg');
     background-attachment: fixed;
     background-size: cover;
 }
@@ -27,6 +27,9 @@ section.skill-section {
 }
 
 section.skill-section,
+section.wexperience-section,
+section.vexperience-section,
+section.education-section,
 section.about-section {
     max-width: 100%;
 }
@@ -44,21 +47,21 @@ hr:not([size]) {
     color: white;
 }
 
-#html5 {
+#ppt {
     background-color: #21d4fd;
     background-image: linear-gradient(-7deg, #FAD961 0%, #F76B1C 100%);
 }
-#css3 {
+#word {
     background-color: #0093E9;
     background-image: linear-gradient(-7deg, #0093E9 0%, #80D0C7 100%);
 }
 
-#js {
+#excel {
     background-color: #FBAB7E;
     background-image: linear-gradient(-7deg, #FBAB7E 0%, rgb(255, 252, 70) 100%);
 }
 
-#php {
+#account {
     background-color: #4158D0;
     background-image: linear-gradient(-7deg, #4158D0 0%, #C850C0 100%);
 }
